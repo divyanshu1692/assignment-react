@@ -1,4 +1,5 @@
-import Table from "@/components/Table";
+"use client";
+import Table from "../../components/Table";
 
 export default function index() {
     return (
